@@ -1,0 +1,44 @@
+html{
+background-color:whitesmoke;
+}
+section{
+    height:60vh;
+    width:100%;
+    padding: 50px;
+}
+
+div{
+    width:100%;
+    align-items: center;
+}
+.split{
+    display:flex;
+}
+
+.photo{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    width:80%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+}
+img{
+    height: 680px;
+    width:1080px;
+    border-radius: 50px;
+}
+
+
+
+#intro{
+    background: url(images/intro.png) no-repeat center fixed;
+    background-size:cover;
+    height:100vh;
+}
+
